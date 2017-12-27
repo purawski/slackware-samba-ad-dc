@@ -1,0 +1,1 @@
+# slackware-samba-ad-dc
